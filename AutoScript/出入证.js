@@ -1,0 +1,1 @@
+app.viewFile("/sdcard/脚本/AutoScript/res/出入证.jpg")

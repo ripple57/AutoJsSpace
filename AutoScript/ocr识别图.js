@@ -1,0 +1,1 @@
+app.viewFile("/sdcard/脚本/res/ocrImage.png")

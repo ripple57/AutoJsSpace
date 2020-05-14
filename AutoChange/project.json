@@ -1,0 +1,18 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "915EDF50-4",
+    "build_number": 4,
+    "build_time": 1576114326785
+  },
+  "useFeatures": [],
+  "launchConfig": {
+    "hideLogs": true
+  },
+  "main": "main.js",
+  "name": "一键换装",
+  "packageName": "com.ripple57.autochange",
+  "scripts": {},
+  "versionCode": 2,
+  "versionName": "1.0.1"
+}
